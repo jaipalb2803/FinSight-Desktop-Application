@@ -1,0 +1,5 @@
+Type,Budget,Category,Expenditure,Net
+Income,80000.0,Income,0.0,80000.0
+Budget,8000.0,Utilities,7000.0,1000.0
+Budget,19000.0,Rent,17000.0,2000.0
+Budget,6000.0,Groceries,7000.0,-1000.0

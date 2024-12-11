@@ -1,0 +1,6 @@
+Type,Budget,Category,Expenditure,Net
+Income,80000.0,Income,0.0,80000.0
+Budget,18000.0,Entertainment,17000.0,1000.0
+Budget,8000.0,Rent,7000.0,1000.0
+Expenditure,0.0,Groceries,7000.0,-7000.0
+Budget,8000.0,Groceries,0.0,8000.0

@@ -1,0 +1,104 @@
+[
+    {
+        "timestamp": "2024-12-09T15:56:30.139153",
+        "prices": {
+            "VTSAX:MUTF": {
+                "price": 147.26,
+                "currency": "USD"
+            },
+            "BTC-USD": {
+                "price": 98963.03,
+                "currency": null
+            },
+            "AAPL:NASDAQ": {
+                "price": 242.84,
+                "currency": "USD"
+            }
+        }
+    },
+    {
+        "timestamp": "2024-12-09T16:11:59.711210",
+        "prices": {
+            "VTSAX:MUTF": {
+                "price": 147.26,
+                "currency": "USD"
+            },
+            "BTC-USD": {
+                "price": 98963.03,
+                "currency": null
+            },
+            "AAPL:NASDAQ": {
+                "price": 242.84,
+                "currency": "USD"
+            }
+        }
+    },
+    {
+        "timestamp": "2024-12-09T22:54:37.520415",
+        "prices": {
+            "VTSAX:MUTF": {
+                "price": 147.26,
+                "currency": "USD"
+            },
+            "BTC-USD": {
+                "price": 97942.15000000001,
+                "currency": null
+            },
+            "AAPL:NASDAQ": {
+                "price": 247.155,
+                "currency": "USD"
+            }
+        }
+    },
+    {
+        "timestamp": "2024-12-10T01:31:08.651606",
+        "prices": {
+            "VTSAX:MUTF": {
+                "price": 147.26,
+                "currency": "USD"
+            },
+            "BTC-USD": {
+                "price": 97065.39,
+                "currency": null
+            },
+            "AAPL:NASDAQ": {
+                "price": 246.455,
+                "currency": "USD"
+            }
+        }
+    },
+    {
+        "timestamp": "2024-12-10T19:15:09.854744",
+        "prices": {
+            "VTSAX:MUTF": {
+                "price": 146.25,
+                "currency": "USD"
+            },
+            "BTC-USD": {
+                "price": 97716.95,
+                "currency": null
+            },
+            "AAPL:NASDAQ": {
+                "price": 246.86,
+                "currency": "USD"
+            }
+        }
+    },
+    {
+        "timestamp": "2024-12-11T19:13:04.253587",
+        "prices": {
+            "VTSAX:MUTF": {
+                "price": 145.69,
+                "currency": "USD"
+            },
+            "BTC-USD": {
+                "price": 98422.18000000001,
+                "currency": null
+            },
+            "AAPL:NASDAQ": {
+                "price": 247.77,
+                "currency": "USD"
+            }
+        }
+    }
+]

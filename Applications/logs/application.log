@@ -1,0 +1,392 @@
+[2024-12-04 01:34:47] ACTION: Load Data | DETAILS: Existing assets loaded from CSV.
+[2024-12-04 01:35:27] ACTION: Add Asset | DETAILS: Type: Stock, Name: IBM, Details: NSE, 40
+[2024-12-04 01:35:27] ACTION: Save Data | DETAILS: All asset data saved to CSV.
+[2024-12-07 00:05:42] ACTION: Add Asset | DETAILS: Type: Stock, Name: infosis, Subcategory: Global, Quantity: 70, Quantity Type: Quantity
+[2024-12-07 00:05:42] ACTION: Save Data | DETAILS: All asset data saved to CSV.
+[2024-12-07 00:06:15] ACTION: Add Asset | DETAILS: Type: Exchange Traded Funds (ETF's), Name: jaipal, Subcategory: S&P 500, Quantity: 100, Quantity Type: Units
+[2024-12-07 00:06:15] ACTION: Save Data | DETAILS: All asset data saved to CSV.
+[2024-12-07 00:27:36] ACTION: Load Data | DETAILS: Existing assets loaded from CSV.
+[2024-12-07 00:28:33] ACTION: Add Asset | DETAILS: Type: Bonds, Name: hepto, Subcategory: Government, Quantity: 16, Quantity Type: Term (Years)
+[2024-12-07 00:28:33] ACTION: Save Data | DETAILS: All asset data saved to CSV.
+[2024-12-07 00:31:39] ACTION: Add Asset | DETAILS: Type: Gold, Name: loan, Subcategory: 24-carat, Quantity: 20, Quantity Type: Weight (grams)
+[2024-12-07 00:31:39] ACTION: Save Data | DETAILS: All asset data saved to CSV.
+[2024-12-07 03:15:18] ACTION: Load Data | DETAILS: Existing assets loaded from CSV.
+[2024-12-07 03:15:18] ACTION: Error | DETAILS: Failed to refresh graph: [Errno 13] Permission denied: 'D:\\projects\\finance Tracker desktop app\\Applications\\data storage\\assets\\historical_prices.csv'
+[2024-12-07 03:20:15] ACTION: Load Data | DETAILS: Existing assets loaded from CSV.
+[2024-12-07 03:20:15] ACTION: Error | DETAILS: Failed to refresh graph: [Errno 13] Permission denied: 'D:\\projects\\finance Tracker desktop app\\Applications\\data storage\\assets\\historical_prices.csv'
+[2024-12-07 15:07:00] ACTION: Load Data | DETAILS: Existing assets loaded from CSV.
+[2024-12-07 15:07:00] ACTION: Error | DETAILS: Failed to refresh graph: [Errno 13] Permission denied: 'D:\\projects\\finance Tracker desktop app\\Applications\\data storage\\assets\\historical_prices.csv'
+[2024-12-07 15:30:43] ACTION: Load Data | DETAILS: Existing assets loaded from CSV.
+[2024-12-07 15:30:43] ACTION: Error | DETAILS: Failed to refresh graph: [Errno 13] Permission denied: 'D:\\projects\\finance Tracker desktop app\\Applications\\data storage\\assets\\historical_prices.csv'
+[2024-12-07 16:52:42] ACTION: Load Data | DETAILS: Existing assets loaded from CSV.
+[2024-12-07 16:52:42] ACTION: Error | DETAILS: Failed to refresh graph: [Errno 13] Permission denied: 'D:\\projects\\finance Tracker desktop app\\Applications\\data storage\\assets\\historical_prices.csv'
+[2024-12-07 17:04:34] ACTION: Load Data | DETAILS: Existing assets loaded from CSV.
+[2024-12-07 17:04:34] ACTION: Error | DETAILS: Failed to refresh graph: [Errno 13] Permission denied: 'D:\\projects\\finance Tracker desktop app\\Applications\\data storage\\assets\\historical_prices.csv'
+[2024-12-07 18:03:14] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 18:03:14] ACTION: Error | DETAILS: Failed to refresh graph: [Errno 13] Permission denied: 'D:\\projects\\finance Tracker desktop app\\Applications\\data storage\\assets\\historical_prices.csv'
+[2024-12-07 18:18:44] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 18:18:44] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 18:23:01] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 18:23:01] ACTION: Graph Refreshed | DETAILS: No historical data available for plotting.
+[2024-12-07 18:25:24] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 18:25:24] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 18:29:18] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 18:29:18] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 18:44:04] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 18:44:04] ACTION: Error | DETAILS: Failed to refresh graph: name 'plt' is not defined
+[2024-12-07 18:47:55] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 18:47:55] ACTION: Refresh Graph | DETAILS: Graph updated with historical data.
+[2024-12-07 18:50:11] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 18:50:11] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 19:00:23] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 19:00:23] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 19:19:41] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 19:19:41] ACTION: Error | DETAILS: Failed to refresh graph: 'Time'
+[2024-12-07 19:21:45] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 19:21:45] ACTION: Error | DETAILS: Failed to refresh graph: No columns to parse from file
+[2024-12-07 19:25:52] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 19:25:52] ACTION: Error | DETAILS: Historical prices file is empty or missing.
+[2024-12-07 19:27:36] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 19:27:36] ACTION: Error | DETAILS: Failed to refresh graph: Error tokenizing data. C error: Expected 8 fields in line 3, saw 11
+
+[2024-12-07 19:34:06] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 19:34:06] ACTION: Error | DETAILS: Failed to refresh graph: Error tokenizing data. C error: Expected 8 fields in line 3, saw 11
+
+[2024-12-07 20:37:45] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 20:37:45] ACTION: Graph Refreshed | DETAILS: No historical data available for plotting.
+[2024-12-07 20:40:00] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 20:40:00] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 20:46:42] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 20:46:42] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 21:43:08] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 21:43:08] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 21:53:36] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 21:53:36] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 22:01:41] ACTION: Save Data | DETAILS: Assets saved to CSV.
+[2024-12-07 22:01:41] ACTION: Add Asset | DETAILS: Added infosis of type Stock.
+[2024-12-07 22:16:10] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 22:16:10] ACTION: Error | DETAILS: Failed to refresh graph: name 'plt' is not defined
+[2024-12-07 22:42:42] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 22:42:42] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 22:50:20] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 22:50:20] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 23:10:30] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:10:51] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:10:51] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 23:26:47] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:26:47] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 23:31:04] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:31:04] ACTION: Error | DETAILS: Failed to refresh graph: name 'plt' is not defined
+[2024-12-07 23:32:21] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:32:21] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 23:36:10] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:36:10] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 23:42:51] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:42:51] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 23:53:00] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:53:00] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-07 23:57:05] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-07 23:57:05] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 00:02:00] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:02:00] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 00:06:54] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:06:54] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 00:09:44] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:09:44] ACTION: Error | DETAILS: Failed to refresh graph: 'rgb(31, 119, 180)' is not a valid value for color: supported inputs are (r, g, b) and (r, g, b, a) 0-1 float tuples; '#rrggbb', '#rrggbbaa', '#rgb', '#rgba' strings; named color strings; string reprs of 0-1 floats for grayscale values; 'C0', 'C1', ... strings for colors of the color cycle; and pairs combining one of the above with an alpha value
+[2024-12-08 00:12:44] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:12:44] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 00:12:44] ACTION: Error | DETAILS: Failed to refresh graph: module 'matplotlib.pyplot' has no attribute 'colors'
+[2024-12-08 00:16:33] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:16:33] ACTION: Error | DETAILS: Failed to refresh graph: module 'matplotlib.pyplot' has no attribute 'colors'
+[2024-12-08 00:21:03] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:21:03] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 00:21:03] ACTION: Legend Dialog | DETAILS: Displayed legend dialog successfully.
+[2024-12-08 00:22:29] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:22:29] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 00:22:29] ACTION: Legend Dialog | DETAILS: Displayed legend dialog successfully.
+[2024-12-08 00:33:03] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:33:03] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 00:33:03] ACTION: Legend Dialog | DETAILS: Displayed legend dialog successfully.
+[2024-12-08 00:35:02] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 00:35:02] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 00:35:02] ACTION: Legend Dialog | DETAILS: Displayed legend dialog successfully.
+[2024-12-08 14:42:14] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 14:42:14] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 14:42:14] ACTION: Legend Dialog | DETAILS: Displayed legend dialog successfully.
+[2024-12-08 17:56:10] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-08 17:56:10] ACTION: Graph Refreshed | DETAILS: Displayed updated historical price data.
+[2024-12-08 17:56:10] ACTION: Legend Dialog | DETAILS: Displayed legend dialog successfully.
+[2024-12-09 02:59:53] ACTION: Load Data | DETAILS: Assets loaded successfully.
+[2024-12-09 02:59:53] ACTION: Error | DETAILS: Failed to refresh graph: 'InvestmentPortfolioApp' object has no attribute 'api_handler'
+[2024-12-09 03:24:30] Assets loaded successfully.
+[2024-12-09 03:24:59] Assets loaded successfully.
+[2024-12-09 03:26:30] Assets loaded successfully.
+[2024-12-09 03:26:43] Added asset: VTSAX:MUTF
+[2024-12-09 03:26:49] Removed asset: VTSAX:MUTF
+[2024-12-09 03:26:51] Added asset: VTSAX:MUTF
+[2024-12-09 03:27:00] Added asset: BTC-USD
+[2024-12-09 03:27:10] Portfolio extracted to PDF: D:\projects\finance Tracker desktop app\Applications\data storage\assets\Portfolio_Report.pdf
+[2024-12-09 03:33:40] Assets loaded successfully.
+[2024-12-09 03:41:21] Assets loaded successfully.
+[2024-12-09 03:41:21] Graph refreshed successfully.
+[2024-12-09 03:59:35] Assets loaded successfully.
+[2024-12-09 03:59:35] Graph refreshed successfully.
+[2024-12-09 03:59:56] Assets loaded successfully.
+[2024-12-09 03:59:56] Graph refreshed successfully.
+[2024-12-09 04:23:00] Assets loaded successfully.
+[2024-12-09 04:23:00] Graph Refresh Error: unhashable type: 'numpy.ndarray'
+[2024-12-09 04:24:51] Assets loaded successfully.
+[2024-12-09 04:24:51] Graph Refresh Error: unhashable type: 'numpy.ndarray'
+[2024-12-09 04:28:26] Assets loaded successfully.
+[2024-12-09 04:28:26] Graph Refreshed
+[2024-12-09 04:28:26] Graph Refresh Error: 'InvestmentPortfolioApp' object has no attribute 'show_legend_dialog'
+[2024-12-09 04:30:57] Assets loaded successfully.
+[2024-12-09 04:30:57] Graph Refreshed
+[2024-12-09 04:30:57] Graph Refresh Error: 'InvestmentPortfolioApp' object has no attribute 'show_legend_dialog'
+[2024-12-09 04:39:18] Assets loaded successfully.
+[2024-12-09 04:39:19] Graph Refreshed
+[2024-12-09 04:41:29] Assets loaded successfully.
+[2024-12-09 04:41:29] Graph Refreshed
+[2024-12-09 12:30:43] Assets loaded successfully.
+[2024-12-09 12:30:43] Graph Refreshed
+[2024-12-09 12:34:36] Added asset: AAPL:NASDAQ
+[2024-12-09 13:07:55] Assets loaded successfully.
+[2024-12-09 13:07:55] Graph Refreshed
+[2024-12-09 13:08:13] Added asset: S&P 500:INDEX
+[2024-12-09 13:08:34] Added asset: ESZ23:CME
+[2024-12-09 13:09:23] Assets loaded successfully.
+[2024-12-09 13:09:24] Graph Refreshed
+[2024-12-09 15:42:01] Assets loaded successfully.
+[2024-12-09 15:42:01] Graph Refresh Error: list indices must be integers or slices, not str
+[2024-12-09 16:16:38] Assets loaded successfully.
+[2024-12-09 16:16:39] Graph Refresh Error: 'list' object has no attribute 'items'
+[2024-12-09 16:51:38] Assets loaded successfully.
+[2024-12-09 16:51:38] Graph refreshed successfully.
+[2024-12-09 16:51:38] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 17:03:19] Assets loaded successfully.
+[2024-12-09 17:03:19] Graph Refreshed
+[2024-12-09 17:03:23] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 17:08:00] Assets loaded successfully.
+[2024-12-09 17:08:00] Graph Refreshed
+[2024-12-09 17:08:00] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 17:08:23] Assets loaded successfully.
+[2024-12-09 17:08:23] Graph Refreshed
+[2024-12-09 17:08:23] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 18:42:24] Assets loaded successfully.
+[2024-12-09 18:42:24] Graph refreshed successfully.
+[2024-12-09 18:42:24] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 18:42:24] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 18:44:37] Assets loaded successfully.
+[2024-12-09 18:44:37] Graph refreshed successfully.
+[2024-12-09 18:44:37] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 18:44:37] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 18:44:37] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 18:53:27] Assets loaded successfully.
+[2024-12-09 18:53:28] Graph refreshed successfully.
+[2024-12-09 18:53:28] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 18:53:28] Failed to load insights: unexpected indent (<string>, line 2)
+[2024-12-09 18:53:28] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:12:01] Assets loaded successfully.
+[2024-12-09 19:12:01] Graph refreshed successfully.
+[2024-12-09 19:12:01] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:12:01] Failed to load insights: unexpected indent (<string>, line 2)
+[2024-12-09 19:12:01] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:14:02] Assets loaded successfully.
+[2024-12-09 19:14:02] Graph refreshed successfully.
+[2024-12-09 19:14:02] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:14:02] Failed to load insights: unexpected indent (<string>, line 2)
+[2024-12-09 19:14:02] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:17:44] Assets loaded successfully.
+[2024-12-09 19:17:45] Graph refreshed successfully.
+[2024-12-09 19:17:45] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:17:45] Failed to load insights: unexpected indent (<string>, line 2)
+[2024-12-09 19:24:42] Assets loaded successfully.
+[2024-12-09 19:24:42] Graph refreshed successfully.
+[2024-12-09 19:24:42] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:24:42] Failed to load insights: unexpected indent (<string>, line 2)
+[2024-12-09 19:29:41] Assets loaded successfully.
+[2024-12-09 19:29:41] Graph refreshed successfully.
+[2024-12-09 19:29:41] Failed to load insights: 'charmap' codec can't encode characters in position 80-81: character maps to <undefined>
+[2024-12-09 19:29:57] Assets loaded successfully.
+[2024-12-09 19:29:57] Graph refreshed successfully.
+[2024-12-09 19:29:57] Failed to load insights: 'charmap' codec can't encode characters in position 80-81: character maps to <undefined>
+[2024-12-09 19:43:26] Assets loaded successfully.
+[2024-12-09 19:43:26] Graph refreshed successfully.
+[2024-12-09 19:43:26] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:43:26] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 19:44:22] Assets loaded successfully.
+[2024-12-09 19:44:22] Graph refreshed successfully.
+[2024-12-09 19:44:22] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 19:44:22] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 19:44:42] Assets loaded successfully.
+[2024-12-09 19:44:42] Graph refreshed successfully.
+[2024-12-09 19:44:42] Failed to load insights: 'charmap' codec can't encode characters in position 80-81: character maps to <undefined>
+[2024-12-09 20:01:02] Assets loaded successfully.
+[2024-12-09 20:01:02] Graph refreshed successfully.
+[2024-12-09 20:01:02] Failed to load insights: 'charmap' codec can't encode characters in position 80-81: character maps to <undefined>
+[2024-12-09 20:05:19] Assets loaded successfully.
+[2024-12-09 20:05:19] Graph refreshed successfully.
+[2024-12-09 20:05:19] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 20:05:19] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 20:05:50] Assets loaded successfully.
+[2024-12-09 20:05:50] Graph refreshed successfully.
+[2024-12-09 20:05:50] Failed to load insights: 'charmap' codec can't encode characters in position 80-81: character maps to <undefined>
+[2024-12-09 20:11:49] Assets loaded successfully.
+[2024-12-09 20:11:49] Graph refreshed successfully.
+[2024-12-09 20:11:49] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 20:11:49] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 20:11:49] No data for the legend dialog.
+[2024-12-09 21:02:16] Assets loaded successfully.
+[2024-12-09 21:02:16] Graph refreshed successfully.
+[2024-12-09 21:02:16] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 21:02:16] Failed to load insights: 'charmap' codec can't encode characters in position 80-81: character maps to <undefined>
+[2024-12-09 21:02:16] No data for the legend dialog.
+[2024-12-09 21:41:53] Assets loaded successfully.
+[2024-12-09 21:41:53] Graph refreshed successfully.
+[2024-12-09 21:41:53] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 21:41:53] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:41:53] No data for the legend dialog.
+[2024-12-09 21:44:19] Assets loaded successfully.
+[2024-12-09 21:44:19] Graph refreshed successfully.
+[2024-12-09 21:44:19] Failed to display legend dialog: 'InvestmentPortfolioApp' object has no attribute 'legend_dialog'
+[2024-12-09 21:44:19] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:44:19] No data for the legend dialog.
+[2024-12-09 21:44:56] Assets loaded successfully.
+[2024-12-09 21:44:56] Graph refreshed successfully.
+[2024-12-09 21:44:56] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:44:56] No data for the legend dialog.
+[2024-12-09 21:45:26] Assets loaded successfully.
+[2024-12-09 21:45:26] Graph refreshed successfully.
+[2024-12-09 21:45:26] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:45:26] No data for the legend dialog.
+[2024-12-09 21:46:08] Assets loaded successfully.
+[2024-12-09 21:46:08] Graph refreshed successfully.
+[2024-12-09 21:46:08] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:46:08] No data for the legend dialog.
+[2024-12-09 21:46:30] Assets loaded successfully.
+[2024-12-09 21:46:31] Graph refreshed successfully.
+[2024-12-09 21:46:31] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:46:31] No data for the legend dialog.
+[2024-12-09 21:47:05] Assets loaded successfully.
+[2024-12-09 21:47:05] Graph refreshed successfully.
+[2024-12-09 21:47:06] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:47:06] No data for the legend dialog.
+[2024-12-09 21:49:45] Assets loaded successfully.
+[2024-12-09 21:49:45] Graph refreshed successfully.
+[2024-12-09 21:49:45] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:49:45] No data for the legend dialog.
+[2024-12-09 21:55:24] Assets loaded successfully.
+[2024-12-09 21:55:24] Graph refreshed successfully.
+[2024-12-09 21:55:24] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:55:24] No data for the legend dialog.
+[2024-12-09 21:57:05] Assets loaded successfully.
+[2024-12-09 21:57:05] Graph refreshed successfully.
+[2024-12-09 21:57:05] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:57:05] No data for the legend dialog.
+[2024-12-09 21:58:10] Assets loaded successfully.
+[2024-12-09 21:58:10] Graph refreshed successfully.
+[2024-12-09 21:58:10] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:58:34] Assets loaded successfully.
+[2024-12-09 21:58:34] Graph refreshed successfully.
+[2024-12-09 21:58:34] Failed to load insights: 'InvestmentPortfolioApp' object has no attribute 'scrollArea_Insights'
+[2024-12-09 21:59:22] Assets loaded successfully.
+[2024-12-09 21:59:22] Graph refreshed successfully.
+[2024-12-09 21:59:23] Insights loaded successfully.
+[2024-12-09 22:03:06] Assets loaded successfully.
+[2024-12-09 22:03:06] Graph refreshed successfully.
+[2024-12-09 22:03:08] Insights loaded successfully.
+[2024-12-09 22:55:25] Assets loaded successfully.
+[2024-12-09 22:55:25] Graph refreshed successfully.
+[2024-12-09 22:55:25] Insights loaded successfully.
+[2024-12-10 00:16:34] Assets loaded successfully.
+[2024-12-10 00:41:51] Assets loaded successfully.
+[2024-12-10 00:41:51] Graph refreshed successfully.
+[2024-12-10 00:41:51] Insights loaded successfully.
+[2024-12-10 01:09:33] Assets loaded successfully.
+[2024-12-10 01:09:33] Graph refreshed successfully.
+[2024-12-10 01:09:33] Insights loaded successfully.
+[2024-12-10 01:12:25] Added asset: USD-INR
+[2024-12-10 01:31:05] Assets loaded successfully.
+[2024-12-10 01:31:05] Starting API operations...
+[2024-12-10 01:31:08] API operations completed.
+[2024-12-10 01:31:08] Graph refreshed successfully.
+[2024-12-10 01:31:09] Insights loaded successfully.
+[2024-12-10 01:31:49] Assets loaded successfully.
+[2024-12-10 01:31:49] API calls are gated. Continuing with existing data.
+[2024-12-10 01:31:49] Graph refreshed successfully.
+[2024-12-10 01:31:50] Insights loaded successfully.
+[2024-12-10 01:38:33] Assets loaded successfully.
+[2024-12-10 01:38:33] API calls are gated. Continuing with existing data.
+[2024-12-10 01:38:34] Graph refreshed successfully.
+[2024-12-10 01:38:34] Insights loaded successfully.
+[2024-12-10 01:40:05] Assets loaded successfully.
+[2024-12-10 01:40:05] API calls are gated. Continuing with existing data.
+[2024-12-10 01:40:05] Graph refreshed successfully.
+[2024-12-10 01:40:06] Insights loaded successfully.
+[2024-12-10 01:40:54] Assets loaded successfully.
+[2024-12-10 01:40:54] API calls are gated. Continuing with existing data.
+[2024-12-10 01:40:54] Graph refreshed successfully.
+[2024-12-10 01:40:54] Insights loaded successfully.
+[2024-12-10 19:15:06] Assets loaded successfully.
+[2024-12-10 19:15:06] Starting API operations...
+[2024-12-10 19:15:09] API operations completed.
+[2024-12-10 19:15:09] Graph refreshed successfully.
+[2024-12-10 19:15:10] Insights loaded successfully.
+[2024-12-10 23:41:45] Assets loaded successfully.
+[2024-12-10 23:41:45] API calls are gated. Continuing with existing data.
+[2024-12-10 23:41:45] Graph refreshed successfully.
+[2024-12-10 23:41:46] Insights loaded successfully.
+[2024-12-10 23:50:18] Assets loaded successfully.
+[2024-12-10 23:50:18] API calls are gated. Continuing with existing data.
+[2024-12-10 23:50:19] Graph refreshed successfully.
+[2024-12-10 23:50:19] Insights loaded successfully.
+[2024-12-11 00:00:07] Assets loaded successfully.
+[2024-12-11 00:00:07] API calls are gated. Continuing with existing data.
+[2024-12-11 00:00:07] Graph refreshed successfully.
+[2024-12-11 00:00:07] Insights loaded successfully.
+[2024-12-11 02:03:46] Assets loaded successfully.
+[2024-12-11 02:03:46] API calls are gated. Continuing with existing data.
+[2024-12-11 02:03:46] Graph refreshed successfully.
+[2024-12-11 02:03:46] Insights loaded successfully.
+[2024-12-11 19:13:00] Assets loaded successfully.
+[2024-12-11 19:13:00] Starting API operations...
+[2024-12-11 19:13:04] API operations completed.
+[2024-12-11 19:13:04] Graph refreshed successfully.
+[2024-12-11 19:13:04] Insights loaded successfully.
+[2024-12-11 23:28:38] Assets loaded successfully.
+[2024-12-11 23:28:38] API calls are gated. Continuing with existing data.
+[2024-12-11 23:28:38] Graph refreshed successfully.
+[2024-12-11 23:28:38] Insights loaded successfully.
+[2024-12-11 23:28:41] Failed to extract portfolio: name 'FPDF' is not defined
+[2024-12-12 00:09:22] Assets loaded successfully.
+[2024-12-12 00:09:22] API calls are gated. Continuing with existing data.
+[2024-12-12 00:09:22] Graph refreshed successfully.
+[2024-12-12 00:09:23] Insights loaded successfully.
+[2024-12-12 00:13:47] Asset name is required.
+[2024-12-12 00:13:49] Asset not found: 
+[2024-12-12 00:13:52] Failed to extract portfolio: name 'FPDF' is not defined
+[2024-12-12 01:10:47] Assets loaded successfully.
+[2024-12-12 01:10:47] API calls are gated. Continuing with existing data.
+[2024-12-12 01:10:47] Graph refreshed successfully.
+[2024-12-12 01:10:48] Insights loaded successfully.
+[2024-12-12 01:10:56] Portfolio extracted to PDF: D:\projects\finance Tracker desktop app\Applications\data storage\assets\Portfolio_Report.pdf
+[2024-12-12 01:56:40] Assets loaded successfully.
+[2024-12-12 01:56:40] API calls are gated. Continuing with existing data.
+[2024-12-12 01:56:41] Graph refreshed successfully.
+[2024-12-12 01:56:41] Insights loaded successfully.
+[2024-12-12 02:00:14] Assets loaded successfully.
+[2024-12-12 02:00:14] API calls are gated. Continuing with existing data.
+[2024-12-12 02:00:14] Graph refreshed successfully.
+[2024-12-12 02:00:15] Insights loaded successfully.
+[2024-12-12 02:00:40] Portfolio extracted to PDF: D:\projects\finance Tracker desktop app\Applications\data storage\pdf\Portfolio_Report.pdf
+[2024-12-12 02:05:00] Assets loaded successfully.
+[2024-12-12 02:05:00] API calls are gated. Continuing with existing data.
+[2024-12-12 02:05:01] Graph refreshed successfully.
+[2024-12-12 02:05:01] Insights loaded successfully.
+[2024-12-12 02:05:09] Portfolio extracted to PDF: D:\projects\finance Tracker desktop app\Applications\data storage\pdf\Portfolio_Report.pdf
+[2024-12-12 02:05:21] Added asset: FZROX:MUTF
+[2024-12-12 02:05:23] Removed asset: FZROX:MUTF
+[2024-12-12 02:07:25] Assets loaded successfully.
+[2024-12-12 02:07:25] API calls are gated. Continuing with existing data.
+[2024-12-12 02:07:26] Graph refreshed successfully.
+[2024-12-12 02:07:26] Insights loaded successfully.

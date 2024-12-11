@@ -1,0 +1,630 @@
+2024-11-21 20:36:41,143 - INFO - Application started.
+2024-11-21 20:36:41,144 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_data.csv.
+2024-11-21 20:36:41,144 - ERROR - Failed to load last CSV file: 'IncomeAndExpenseTrackerApp' object has no attribute '_update_status'
+2024-11-21 20:41:21,821 - INFO - Application started.
+2024-11-21 20:41:21,825 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_data.csv.
+2024-11-21 20:41:49,107 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_data.csv.
+2024-11-21 20:41:49,108 - INFO - Expense added successfully.
+2024-11-21 20:42:54,079 - INFO - Application started.
+2024-11-21 20:42:54,079 - INFO - No previous data to load.
+2024-11-21 20:49:04,181 - INFO - Monthly budget set successfully.
+2024-11-21 20:50:15,718 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_205015.csv.
+2024-11-21 20:50:15,718 - INFO - Income added successfully.
+2024-11-21 20:50:45,798 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_205015.csv.
+2024-11-21 20:50:45,798 - INFO - Expense added successfully.
+2024-11-21 20:51:02,309 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_205015.csv.
+2024-11-21 20:51:02,309 - INFO - Expense added successfully.
+2024-11-21 20:51:55,670 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_205015.csv.
+2024-11-21 20:51:55,670 - INFO - Expense added successfully.
+2024-11-21 20:52:06,326 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_205015.csv.
+2024-11-21 20:52:06,326 - INFO - Expense added successfully.
+2024-11-21 20:52:25,142 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_205015.csv.
+2024-11-21 20:52:25,142 - INFO - Expense added successfully.
+2024-11-21 21:06:32,496 - INFO - Monthly budget set successfully.
+2024-11-21 21:12:38,665 - INFO - Monthly budget set successfully.
+2024-11-21 21:12:53,520 - INFO - Monthly budget set successfully.
+2024-11-21 21:13:00,578 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_211300.csv.
+2024-11-21 21:13:00,578 - INFO - Income added successfully.
+2024-11-21 21:13:19,465 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_211300.csv.
+2024-11-21 21:13:19,465 - INFO - Expense added successfully.
+2024-11-21 21:13:46,009 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_211300.csv.
+2024-11-21 21:13:46,009 - INFO - Expense added successfully.
+2024-11-21 21:14:00,073 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_211300.csv.
+2024-11-21 21:14:00,073 - INFO - Expense added successfully.
+2024-11-21 21:14:14,065 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_211300.csv.
+2024-11-21 21:14:14,065 - INFO - Expense added successfully.
+2024-11-21 21:14:26,649 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_211300.csv.
+2024-11-21 21:14:26,649 - INFO - Expense added successfully.
+2024-11-21 21:20:27,066 - ERROR - Failed to extract data: 'latin-1' codec can't encode character '\u20b9' in position 154: ordinal not in range(256)
+2024-11-21 21:20:27,066 - INFO - Failed to extract data: 'latin-1' codec can't encode character '\u20b9' in position 154: ordinal not in range(256)
+2024-11-21 21:26:09,095 - INFO - Application started.
+2024-11-21 21:26:09,098 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_211300.csv.
+2024-11-21 21:49:37,030 - INFO - Application started.
+2024-11-21 21:49:37,031 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_211300.csv.
+2024-11-21 21:50:10,398 - INFO - Application started.
+2024-11-21 21:50:10,399 - INFO - No previous data to load.
+2024-11-21 21:53:20,143 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_215320.csv.
+2024-11-21 21:53:20,143 - INFO - Income added successfully. New CSV file created.
+2024-11-21 22:02:36,623 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_215320.csv.
+2024-11-21 22:02:36,624 - INFO - Expense added successfully.
+2024-11-21 22:02:50,375 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_215320.csv.
+2024-11-21 22:02:50,375 - INFO - Expense added successfully.
+2024-11-21 22:03:04,919 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_215320.csv.
+2024-11-21 22:03:04,919 - INFO - Expense added successfully.
+2024-11-21 22:03:25,461 - INFO - Failed to add expense: Invalid input.
+2024-11-21 22:03:34,367 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_215320.csv.
+2024-11-21 22:03:34,367 - INFO - Expense added successfully.
+2024-11-21 22:03:53,795 - INFO - Failed to add expense: Invalid input.
+2024-11-21 22:05:08,591 - INFO - Monthly budget set successfully.
+2024-11-21 22:06:05,671 - ERROR - Failed to extract data: 'latin-1' codec can't encode character '\u20b9' in position 154: ordinal not in range(256)
+2024-11-21 22:06:05,671 - INFO - Failed to extract data: 'latin-1' codec can't encode character '\u20b9' in position 154: ordinal not in range(256)
+2024-11-21 22:19:27,557 - INFO - Application started.
+2024-11-21 22:19:27,558 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_215320.csv.
+2024-11-21 22:48:07,372 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_224807.csv.
+2024-11-21 22:48:07,372 - INFO - Income added successfully. New CSV file created.
+2024-11-21 22:56:28,748 - INFO - Monthly budget set successfully.
+2024-11-21 22:57:26,461 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_224807.csv.
+2024-11-21 22:57:26,462 - INFO - Expense added successfully.
+2024-11-21 23:05:12,982 - INFO - Application started.
+2024-11-21 23:05:12,983 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_224807.csv.
+2024-11-21 23:05:45,925 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_224807.csv.
+2024-11-21 23:05:45,926 - INFO - Expense added successfully.
+2024-11-21 23:06:26,877 - INFO - Monthly budget set successfully.
+2024-11-21 23:22:08,847 - INFO - Monthly budget set successfully.
+2024-11-21 23:22:18,062 - INFO - Monthly budget set successfully.
+2024-11-21 23:22:20,470 - INFO - Data extracted to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_224807.pdf and D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241121_224807.txt.
+2024-11-21 23:22:20,471 - INFO - Data extracted successfully.
+2024-11-22 01:13:22,061 - INFO - Application started.
+2024-11-22 01:13:22,062 - INFO - No previous data to load.
+2024-11-22 01:13:33,983 - INFO - Metrics updated.
+2024-11-22 01:32:58,596 - INFO - Application started.
+2024-11-22 01:32:58,597 - INFO - No previous data to load.
+2024-11-22 01:33:04,769 - INFO - Metrics updated.
+2024-11-22 01:33:04,770 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.csv.
+2024-11-22 01:33:04,770 - INFO - Income added successfully. New session started.
+2024-11-22 01:35:56,953 - INFO - Metrics updated.
+2024-11-22 01:35:56,954 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.csv.
+2024-11-22 01:35:56,955 - INFO - Budget for 'Rent' added successfully.
+2024-11-22 01:36:55,537 - INFO - Metrics updated.
+2024-11-22 01:36:55,539 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.csv.
+2024-11-22 01:36:55,539 - INFO - Budget for 'Utilities' added successfully.
+2024-11-22 01:37:24,184 - INFO - Metrics updated.
+2024-11-22 01:37:24,185 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.csv.
+2024-11-22 01:37:24,185 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-22 01:39:39,265 - INFO - Metrics updated.
+2024-11-22 01:39:39,265 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.csv.
+2024-11-22 01:39:39,266 - INFO - Budget for 'Groceries' added successfully.
+2024-11-22 01:39:48,362 - INFO - Metrics updated.
+2024-11-22 01:39:48,363 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.csv.
+2024-11-22 01:39:48,363 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-22 01:41:00,502 - INFO - Data extracted to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.pdf.
+2024-11-22 01:41:00,502 - INFO - Data extracted successfully.
+2024-11-22 01:42:04,430 - INFO - Application started.
+2024-11-22 01:42:04,433 - INFO - Metrics updated.
+2024-11-22 01:42:04,433 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.csv.
+2024-11-22 01:58:42,251 - INFO - Application started.
+2024-11-22 01:58:42,252 - ERROR - Failed to load CSV file: 'Net'
+2024-11-22 01:58:42,255 - INFO - Failed to load data.
+2024-11-22 01:58:42,255 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_013304.csv.
+2024-11-22 02:00:15,663 - INFO - Application started.
+2024-11-22 02:00:15,665 - INFO - No previous data to load.
+2024-11-22 02:00:22,322 - INFO - Metrics updated.
+2024-11-22 02:00:22,323 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_020022.csv.
+2024-11-22 02:00:22,323 - INFO - Income added successfully. New session started.
+2024-11-22 02:00:50,579 - INFO - Metrics updated.
+2024-11-22 02:00:50,581 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_020022.csv.
+2024-11-22 02:00:50,581 - INFO - Budget for 'Rent' added successfully.
+2024-11-22 02:01:04,243 - INFO - Metrics updated.
+2024-11-22 02:01:04,244 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_020022.csv.
+2024-11-22 02:01:04,245 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-22 02:01:52,730 - INFO - Metrics updated.
+2024-11-22 02:01:52,731 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_020022.csv.
+2024-11-22 02:01:52,732 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-22 03:28:01,726 - INFO - Application started.
+2024-11-22 03:28:01,727 - INFO - No previous data to load.
+2024-11-22 03:31:45,236 - INFO - Application started.
+2024-11-22 03:31:45,237 - INFO - No previous data to load.
+2024-11-22 03:32:06,153 - INFO - Metrics updated.
+2024-11-22 03:32:06,154 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_033206.csv.
+2024-11-22 03:32:06,154 - INFO - Income added successfully. New session started.
+2024-11-22 03:39:59,115 - INFO - Application started.
+2024-11-22 03:39:59,118 - INFO - Metrics updated.
+2024-11-22 03:39:59,119 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_033206.csv.
+2024-11-22 03:41:46,203 - INFO - Metrics updated.
+2024-11-22 03:41:46,205 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_033206.csv.
+2024-11-22 03:41:46,205 - INFO - Budget for 'Rent' added successfully.
+2024-11-22 03:43:56,179 - INFO - Metrics updated.
+2024-11-22 03:43:56,180 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_033206.csv.
+2024-11-22 03:43:56,180 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-22 03:44:48,051 - INFO - Metrics updated.
+2024-11-22 03:44:48,052 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_033206.csv.
+2024-11-22 03:44:48,052 - INFO - Budget for 'Utilities' added successfully.
+2024-11-22 03:46:42,431 - INFO - Data extracted to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_033206.pdf.
+2024-11-22 03:46:42,431 - INFO - Data extracted successfully.
+2024-11-22 03:54:47,818 - INFO - Application started.
+2024-11-22 03:54:47,819 - INFO - No previous data to load.
+2024-11-22 03:55:02,356 - INFO - Metrics updated.
+2024-11-22 03:55:02,358 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035502.csv.
+2024-11-22 03:55:02,358 - INFO - Budget for 'Rent' added successfully.
+2024-11-22 03:55:05,237 - INFO - Metrics updated.
+2024-11-22 03:55:05,238 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 03:55:05,238 - INFO - Income added successfully. New session started.
+2024-11-22 03:55:28,381 - INFO - Metrics updated.
+2024-11-22 03:55:28,383 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 03:55:28,383 - INFO - Budget for 'Rent' added successfully.
+2024-11-22 03:56:00,701 - INFO - Metrics updated.
+2024-11-22 03:56:00,702 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 03:56:00,702 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-22 03:56:13,267 - INFO - Application started.
+2024-11-22 03:56:13,271 - INFO - Metrics updated.
+2024-11-22 03:56:13,271 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 03:59:56,824 - INFO - Metrics updated.
+2024-11-22 03:59:56,825 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 03:59:56,826 - INFO - Budget for 'Utilities' added successfully.
+2024-11-22 04:00:05,944 - INFO - Application started.
+2024-11-22 04:00:05,945 - INFO - Metrics updated.
+2024-11-22 04:00:05,945 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 04:00:47,255 - INFO - Metrics updated.
+2024-11-22 04:00:47,255 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 04:00:47,256 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-22 04:02:53,754 - INFO - Data extracted to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.pdf.
+2024-11-22 04:02:53,754 - INFO - Data extracted successfully.
+2024-11-22 04:09:26,249 - INFO - Application started.
+2024-11-22 04:09:26,255 - INFO - Metrics updated.
+2024-11-22 04:09:26,256 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 19:24:30,781 - INFO - Application started.
+2024-11-22 19:24:30,783 - INFO - Metrics updated.
+2024-11-22 19:24:30,784 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_035505.csv.
+2024-11-22 19:25:16,686 - INFO - Metrics updated.
+2024-11-22 19:25:16,687 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:25:16,687 - INFO - Income added successfully. New session started.
+2024-11-22 19:28:01,278 - INFO - Metrics updated.
+2024-11-22 19:28:01,280 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:28:01,280 - INFO - Budget for 'Rent' added successfully.
+2024-11-22 19:28:19,205 - INFO - Metrics updated.
+2024-11-22 19:28:19,206 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:28:19,206 - INFO - Budget for 'Electricity' added successfully.
+2024-11-22 19:28:37,980 - INFO - Metrics updated.
+2024-11-22 19:28:37,981 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:28:37,981 - INFO - Budget for 'Petrol' added successfully.
+2024-11-22 19:29:11,237 - INFO - Metrics updated.
+2024-11-22 19:29:11,238 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:29:11,238 - INFO - Budget for 'Groceries' added successfully.
+2024-11-22 19:29:36,972 - INFO - Metrics updated.
+2024-11-22 19:29:36,974 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:29:36,974 - INFO - Budget for 'Transport' added successfully.
+2024-11-22 19:29:48,652 - INFO - Metrics updated.
+2024-11-22 19:29:48,654 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:29:48,654 - INFO - Budget for 'Tiffin' added successfully.
+2024-11-22 19:30:11,220 - INFO - Metrics updated.
+2024-11-22 19:30:11,221 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:30:11,221 - INFO - Budget for 'Flat Maintainance' added successfully.
+2024-11-22 19:30:30,685 - INFO - Metrics updated.
+2024-11-22 19:30:30,686 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:30:30,686 - INFO - Budget for 'Petty Cash' added successfully.
+2024-11-22 19:30:52,972 - INFO - Metrics updated.
+2024-11-22 19:30:52,974 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:30:52,974 - INFO - Budget for 'Loan EMI' added successfully.
+2024-11-22 19:38:36,190 - INFO - Application started.
+2024-11-22 19:38:36,192 - INFO - Metrics updated.
+2024-11-22 19:38:36,192 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:40:20,151 - INFO - Application started.
+2024-11-22 19:40:20,153 - INFO - Metrics updated.
+2024-11-22 19:40:20,153 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:40:33,637 - INFO - Metrics updated.
+2024-11-22 19:40:33,638 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_194033.csv.
+2024-11-22 19:40:33,639 - INFO - Income added successfully. New session started.
+2024-11-22 19:50:35,690 - INFO - Application started.
+2024-11-22 19:50:35,691 - INFO - Metrics updated.
+2024-11-22 19:50:35,692 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-22 19:50:44,823 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_195044.csv.
+2024-11-22 19:50:44,823 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_195044.csv.
+2024-11-22 19:50:44,823 - INFO - New income added successfully. Session reset.
+2024-11-22 19:50:57,422 - INFO - Metrics updated.
+2024-11-22 19:50:57,423 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_195044.csv.
+2024-11-22 19:50:57,423 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_195044.csv.
+2024-11-22 19:50:57,423 - INFO - Budget for '' added successfully.
+2024-11-22 19:53:19,044 - INFO - Application started.
+2024-11-22 19:53:19,045 - INFO - Metrics updated.
+2024-11-22 19:53:19,045 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-23 01:31:25,914 - INFO - Application started.
+2024-11-23 01:31:25,917 - INFO - Metrics updated.
+2024-11-23 01:31:25,917 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-23 01:31:33,119 - INFO - Data extracted to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.pdf.
+2024-11-23 01:31:33,119 - INFO - Data extracted successfully.
+2024-11-23 01:39:18,447 - INFO - Application started.
+2024-11-23 01:39:18,449 - INFO - Metrics updated.
+2024-11-23 01:39:18,449 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-24 23:28:56,658 - INFO - Application started.
+2024-11-24 23:28:56,658 - INFO - No previous data to load.
+2024-11-24 23:29:20,642 - INFO - Application started.
+2024-11-24 23:29:20,642 - INFO - No previous data to load.
+2024-11-24 23:34:14,301 - INFO - Application started.
+2024-11-24 23:34:14,305 - INFO - Metrics updated.
+2024-11-24 23:34:14,306 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 00:35:31,425 - INFO - Application started.
+2024-11-25 00:35:31,427 - INFO - Metrics updated.
+2024-11-25 00:35:31,427 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 00:36:02,818 - INFO - Metrics updated.
+2024-11-25 00:36:02,819 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 00:36:02,819 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 00:36:02,820 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 00:36:38,705 - INFO - Metrics updated.
+2024-11-25 00:36:38,706 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 00:36:38,706 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 00:36:38,706 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 00:37:08,298 - INFO - Metrics updated.
+2024-11-25 00:37:08,299 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 00:37:08,299 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 00:37:08,299 - INFO - Expenditure for 'Electricity' added successfully.
+2024-11-25 00:37:34,781 - INFO - Data extracted to D:\projects\finance Tracker desktop app\Applications\data storage\pdf\income_expense_20241122_192516.pdf.
+2024-11-25 00:37:34,781 - INFO - Data extracted successfully.
+2024-11-25 19:34:33,876 - INFO - Application started.
+2024-11-25 19:34:33,878 - INFO - Metrics updated.
+2024-11-25 19:34:33,878 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241122_192516.csv.
+2024-11-25 20:59:50,604 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 20:59:50,606 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 20:59:50,606 - INFO - New income added successfully. Session reset.
+2024-11-25 21:10:54,701 - INFO - Metrics updated.
+2024-11-25 21:10:54,702 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:10:54,702 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:10:54,702 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 21:11:25,837 - INFO - Metrics updated.
+2024-11-25 21:11:25,838 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:11:25,838 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:11:25,838 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 21:11:36,291 - INFO - Metrics updated.
+2024-11-25 21:11:36,292 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:11:36,292 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:11:36,292 - INFO - Budget for 'Entertainment' added successfully.
+2024-11-25 21:11:46,235 - INFO - Metrics updated.
+2024-11-25 21:11:46,236 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:11:46,236 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:11:46,236 - INFO - Expenditure for 'Entertainment' added successfully.
+2024-11-25 21:12:08,306 - INFO - Metrics updated.
+2024-11-25 21:12:08,307 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:12:08,307 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:12:08,307 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 21:12:16,083 - INFO - Metrics updated.
+2024-11-25 21:12:16,084 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:12:16,084 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:12:16,084 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 21:13:21,443 - INFO - Metrics updated.
+2024-11-25 21:13:21,444 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:13:21,445 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:13:21,445 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 21:13:28,386 - INFO - Metrics updated.
+2024-11-25 21:13:28,386 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:13:28,387 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_205950.csv.
+2024-11-25 21:13:28,387 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 21:14:31,476 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 21:14:31,476 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 21:14:31,476 - INFO - New income added successfully. Session reset.
+2024-11-25 21:14:40,827 - INFO - Metrics updated.
+2024-11-25 21:14:40,828 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 21:14:40,828 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 21:14:40,828 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 21:14:42,562 - INFO - Metrics updated.
+2024-11-25 21:14:42,563 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 21:14:42,563 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 21:14:42,563 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 22:34:14,175 - INFO - Metrics updated.
+2024-11-25 22:34:14,176 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:34:14,176 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:34:14,176 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 22:34:21,725 - INFO - Metrics updated.
+2024-11-25 22:34:21,727 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:34:21,727 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:34:21,727 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 22:34:34,240 - INFO - Metrics updated.
+2024-11-25 22:34:34,241 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:34:34,241 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:34:34,241 - INFO - Budget for 'Entertainment' added successfully.
+2024-11-25 22:34:46,535 - INFO - Metrics updated.
+2024-11-25 22:34:46,536 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:34:46,536 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:34:46,536 - INFO - Expenditure for 'Entertainment' added successfully.
+2024-11-25 22:36:48,486 - INFO - Metrics updated.
+2024-11-25 22:36:48,487 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:36:48,487 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:36:48,487 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 22:36:57,286 - INFO - Metrics updated.
+2024-11-25 22:36:57,287 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:36:57,287 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:36:57,287 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 22:40:48,580 - INFO - Application started.
+2024-11-25 22:40:48,582 - INFO - Metrics updated.
+2024-11-25 22:40:48,582 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_211431.csv.
+2024-11-25 22:42:17,769 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:42:17,769 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:42:17,769 - INFO - New income added successfully. Session reset.
+2024-11-25 22:42:49,629 - INFO - Metrics updated.
+2024-11-25 22:42:49,630 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:42:49,630 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:42:49,630 - INFO - Budget for 'Entertainment' added successfully.
+2024-11-25 22:42:58,670 - INFO - Metrics updated.
+2024-11-25 22:42:58,671 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:42:58,672 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:42:58,672 - INFO - Expenditure for 'Entertainment' added successfully.
+2024-11-25 22:43:18,006 - INFO - Metrics updated.
+2024-11-25 22:43:18,007 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:43:18,007 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:43:18,007 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 22:43:32,702 - INFO - Metrics updated.
+2024-11-25 22:43:32,703 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:43:32,703 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:43:32,703 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 22:50:58,463 - INFO - Metrics updated.
+2024-11-25 22:50:58,463 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:50:58,464 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:50:58,464 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 22:51:03,775 - INFO - Metrics updated.
+2024-11-25 22:51:03,776 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:51:03,776 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_224217.csv.
+2024-11-25 22:51:03,776 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 22:52:06,351 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:06,351 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:06,351 - INFO - New income added successfully. Session reset.
+2024-11-25 22:52:09,159 - INFO - Metrics updated.
+2024-11-25 22:52:09,160 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:09,160 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:09,160 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 22:52:10,446 - INFO - Metrics updated.
+2024-11-25 22:52:10,446 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:10,447 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:10,447 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 22:52:22,551 - INFO - Metrics updated.
+2024-11-25 22:52:22,551 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:22,552 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:22,552 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 22:52:29,071 - INFO - Metrics updated.
+2024-11-25 22:52:29,071 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:29,071 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:29,072 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 22:52:46,207 - INFO - Metrics updated.
+2024-11-25 22:52:46,207 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:46,208 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:46,208 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 22:52:53,887 - INFO - Metrics updated.
+2024-11-25 22:52:53,888 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:53,888 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225206.csv.
+2024-11-25 22:52:53,888 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 22:53:36,928 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:36,928 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:36,928 - INFO - New income added successfully. Session reset.
+2024-11-25 22:53:38,294 - INFO - Metrics updated.
+2024-11-25 22:53:38,295 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:38,295 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:38,295 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 22:53:39,158 - INFO - Metrics updated.
+2024-11-25 22:53:39,159 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:39,159 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:39,160 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 22:53:47,423 - INFO - Metrics updated.
+2024-11-25 22:53:47,423 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:47,424 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:47,424 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 22:53:54,654 - INFO - Metrics updated.
+2024-11-25 22:53:54,654 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:54,654 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:53:54,655 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 22:54:07,774 - INFO - Metrics updated.
+2024-11-25 22:54:07,775 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:54:07,775 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:54:07,775 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 22:54:12,670 - INFO - Metrics updated.
+2024-11-25 22:54:12,671 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:54:12,671 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225336.csv.
+2024-11-25 22:54:12,671 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 22:55:17,967 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:17,967 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:17,967 - INFO - New income added successfully. Session reset.
+2024-11-25 22:55:21,054 - INFO - Metrics updated.
+2024-11-25 22:55:21,055 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:21,055 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:21,055 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 22:55:21,903 - INFO - Metrics updated.
+2024-11-25 22:55:21,903 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:21,904 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:21,904 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 22:55:32,358 - INFO - Metrics updated.
+2024-11-25 22:55:32,359 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:32,359 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:32,360 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 22:55:44,983 - INFO - Metrics updated.
+2024-11-25 22:55:44,984 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:44,984 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:55:44,984 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 22:56:15,094 - INFO - Metrics updated.
+2024-11-25 22:56:15,095 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:56:15,095 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:56:15,095 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 22:56:15,775 - INFO - Metrics updated.
+2024-11-25 22:56:15,775 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:56:15,776 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225517.csv.
+2024-11-25 22:56:15,776 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 22:57:24,880 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:24,880 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:24,880 - INFO - New income added successfully. Session reset.
+2024-11-25 22:57:30,237 - INFO - Metrics updated.
+2024-11-25 22:57:30,238 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:30,238 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:30,238 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 22:57:31,911 - INFO - Metrics updated.
+2024-11-25 22:57:31,911 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:31,911 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:31,912 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 22:57:38,655 - INFO - Metrics updated.
+2024-11-25 22:57:38,655 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:38,656 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:38,656 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 22:57:44,454 - INFO - Metrics updated.
+2024-11-25 22:57:44,455 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:44,455 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:57:44,455 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 22:58:08,207 - INFO - Metrics updated.
+2024-11-25 22:58:08,208 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:58:08,208 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:58:08,208 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 22:58:13,047 - INFO - Metrics updated.
+2024-11-25 22:58:13,048 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:58:13,048 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225724.csv.
+2024-11-25 22:58:13,048 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 22:58:18,272 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:58:18,272 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:58:18,273 - INFO - New income added successfully. Session reset.
+2024-11-25 22:59:05,655 - INFO - Metrics updated.
+2024-11-25 22:59:05,656 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:59:05,657 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:59:05,657 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 22:59:06,295 - INFO - Metrics updated.
+2024-11-25 22:59:06,296 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:59:06,296 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:59:06,296 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 22:59:12,086 - INFO - Metrics updated.
+2024-11-25 22:59:12,087 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:59:12,087 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:59:12,088 - INFO - Budget for 'Entertainment' added successfully.
+2024-11-25 22:59:18,342 - INFO - Metrics updated.
+2024-11-25 22:59:18,343 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:59:18,343 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225818.csv.
+2024-11-25 22:59:18,343 - INFO - Expenditure for 'Entertainment' added successfully.
+2024-11-25 22:59:29,456 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:29,457 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:29,457 - INFO - New income added successfully. Session reset.
+2024-11-25 22:59:31,382 - INFO - Metrics updated.
+2024-11-25 22:59:31,383 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:31,383 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:31,383 - INFO - Budget for 'Entertainment' added successfully.
+2024-11-25 22:59:32,734 - INFO - Metrics updated.
+2024-11-25 22:59:32,735 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:32,735 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:32,735 - INFO - Expenditure for 'Entertainment' added successfully.
+2024-11-25 22:59:38,319 - INFO - Metrics updated.
+2024-11-25 22:59:38,319 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:38,320 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:38,320 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 22:59:42,872 - INFO - Metrics updated.
+2024-11-25 22:59:42,873 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:42,873 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:42,874 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 22:59:54,862 - INFO - Metrics updated.
+2024-11-25 22:59:54,863 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:54,863 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:54,864 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 22:59:57,702 - INFO - Metrics updated.
+2024-11-25 22:59:57,703 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:57,703 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_225929.csv.
+2024-11-25 22:59:57,703 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 23:00:38,856 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:38,856 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:38,856 - INFO - New income added successfully. Session reset.
+2024-11-25 23:00:40,454 - INFO - Metrics updated.
+2024-11-25 23:00:40,455 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:40,455 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:40,455 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 23:00:40,982 - INFO - Metrics updated.
+2024-11-25 23:00:40,983 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:40,983 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:40,983 - INFO - Expenditure for 'Groceries' added successfully.
+2024-11-25 23:00:47,007 - INFO - Metrics updated.
+2024-11-25 23:00:47,008 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:47,008 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:47,008 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 23:00:52,079 - INFO - Metrics updated.
+2024-11-25 23:00:52,079 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:52,080 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:00:52,080 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 23:01:16,439 - INFO - Metrics updated.
+2024-11-25 23:01:16,439 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:01:16,440 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:01:16,440 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 23:01:19,039 - INFO - Metrics updated.
+2024-11-25 23:01:19,040 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:01:19,040 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230038.csv.
+2024-11-25 23:01:19,040 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 23:01:23,839 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:23,839 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:23,839 - INFO - New income added successfully. Session reset.
+2024-11-25 23:01:24,879 - INFO - Metrics updated.
+2024-11-25 23:01:24,880 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:24,880 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:24,880 - INFO - Budget for 'Utilities' added successfully.
+2024-11-25 23:01:25,503 - INFO - Metrics updated.
+2024-11-25 23:01:25,503 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:25,504 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:25,504 - INFO - Expenditure for 'Utilities' added successfully.
+2024-11-25 23:01:29,046 - INFO - Metrics updated.
+2024-11-25 23:01:29,047 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:29,047 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:29,047 - INFO - Budget for 'Rent' added successfully.
+2024-11-25 23:01:31,438 - INFO - Metrics updated.
+2024-11-25 23:01:31,438 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:31,438 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:31,439 - INFO - Expenditure for 'Rent' added successfully.
+2024-11-25 23:01:38,975 - INFO - Metrics updated.
+2024-11-25 23:01:38,976 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:38,976 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:38,976 - INFO - Budget for 'Groceries' added successfully.
+2024-11-25 23:01:47,870 - INFO - Metrics updated.
+2024-11-25 23:01:47,871 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:47,871 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241125_230123.csv.
+2024-11-25 23:01:47,871 - INFO - Expenditure for 'Groceries' added successfully.
+2024-12-02 20:40:46,851 - INFO - Application started.
+2024-12-02 20:40:46,854 - ERROR - Failed to load CSV file: 'Budget'
+2024-12-02 20:40:46,855 - INFO - Failed to load data.
+2024-12-02 20:40:46,855 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\assets.csv.
+2024-12-02 20:41:18,854 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241202_204118.csv.
+2024-12-02 20:41:18,855 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241202_204118.csv.
+2024-12-02 20:41:18,855 - INFO - New income added successfully. Session reset.
+2024-12-02 20:41:56,108 - INFO - Metrics updated.
+2024-12-02 20:41:56,109 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241202_204118.csv.
+2024-12-02 20:41:56,109 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241202_204118.csv.
+2024-12-02 20:41:56,109 - INFO - Budget for 'Groceries' added successfully.
+2024-12-02 20:42:13,588 - INFO - Metrics updated.
+2024-12-02 20:42:13,589 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241202_204118.csv.
+2024-12-02 20:42:13,589 - INFO - Data saved to D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241202_204118.csv.
+2024-12-02 20:42:13,589 - INFO - Expenditure for 'Utilities' added successfully.
+2024-12-08 14:44:59,144 - INFO - Application started.
+2024-12-08 14:44:59,147 - INFO - Metrics updated.
+2024-12-08 14:44:59,147 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-10 19:14:41,977 - INFO - Application started.
+2024-12-10 19:14:41,982 - INFO - Metrics updated.
+2024-12-10 19:14:41,982 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-10 23:41:21,883 - INFO - Application started.
+2024-12-10 23:41:21,887 - INFO - Metrics updated.
+2024-12-10 23:41:21,888 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-10 23:49:59,698 - INFO - Application started.
+2024-12-10 23:49:59,701 - INFO - Metrics updated.
+2024-12-10 23:49:59,701 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-10 23:59:56,877 - INFO - Application started.
+2024-12-10 23:59:56,880 - INFO - Metrics updated.
+2024-12-10 23:59:56,880 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-11 02:03:29,622 - INFO - Application started.
+2024-12-11 02:03:29,625 - INFO - Metrics updated.
+2024-12-11 02:03:29,625 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-11 02:31:39,336 - INFO - Application started.
+2024-12-11 02:31:39,338 - INFO - Metrics updated.
+2024-12-11 02:31:39,339 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-11 19:12:22,870 - INFO - Application started.
+2024-12-11 19:12:22,871 - INFO - No previous data to load.
+2024-12-11 19:39:30,200 - INFO - Application started.
+2024-12-11 19:39:30,200 - INFO - No previous data to load.
+2024-12-11 19:46:33,882 - INFO - Application started.
+2024-12-11 19:46:33,882 - INFO - No previous data to load.
+2024-12-11 20:19:10,888 - INFO - Application started.
+2024-12-11 20:19:10,888 - INFO - No previous data to load.
+2024-12-11 20:22:51,304 - INFO - Application started.
+2024-12-11 20:22:51,304 - INFO - No previous data to load.
+2024-12-11 21:15:29,385 - INFO - Application started.
+2024-12-11 21:15:29,388 - INFO - Metrics updated.
+2024-12-11 21:15:29,388 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-11 22:00:47,574 - INFO - Application started.
+2024-12-11 22:00:47,578 - INFO - Metrics updated.
+2024-12-11 22:00:47,578 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-12 00:08:47,178 - INFO - Application started.
+2024-12-12 00:08:47,180 - INFO - Metrics updated.
+2024-12-12 00:08:47,180 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
+2024-12-12 02:04:35,798 - INFO - Application started.
+2024-12-12 02:04:35,801 - INFO - Metrics updated.
+2024-12-12 02:04:35,801 - INFO - Loaded data from D:\projects\finance Tracker desktop app\Applications\data storage\income_expense_20241216_230123.csv.
