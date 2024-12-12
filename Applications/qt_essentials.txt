@@ -16,7 +16,3 @@ if __name__ == '__main__':
     window.show()
     sys.exit(app.exec())
 --main block to run the window
-
-google api: AIzaSyDujYXkKiH5OP4saT-_T5WOhwuqtp3-DtE
-programmable search engine ID: 173338507175a4d88
-search api: 2KC1aEMFRv6xifo5gGEHqFWS
