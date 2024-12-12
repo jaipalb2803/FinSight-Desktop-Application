@@ -7,7 +7,7 @@
 ##
 ## WARNING! All changes made in this file will be lost when recompiling UI file!
 ################################################################################
-
+import os
 from PySide6.QtCore import (QCoreApplication, QDate, QDateTime, QLocale,
     QMetaObject, QObject, QPoint, QRect,
     QSize, QTime, QUrl, Qt)
@@ -25,6 +25,7 @@ class Ui_Dashboard(object):
             Dashboard.setObjectName(u"Dashboard")
         Dashboard.setWindowModality(Qt.WindowModality.ApplicationModal)
         Dashboard.resize(634, 484)
+        base_directory = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         self.centralwidget = QWidget(Dashboard)
         self.centralwidget.setObjectName(u"centralwidget")
         self.pb_Income_Expense = QPushButton(self.centralwidget)
@@ -98,18 +99,18 @@ class Ui_Dashboard(object):
         self.label = QLabel(self.centralwidget)
         self.label.setObjectName(u"label")
         self.label.setGeometry(QRect(440, 80, 121, 121))
-        self.label.setPixmap(QPixmap(r"D:\projects\finance Tracker desktop app\Applications\Income&Expense.png"))
+        self.label.setPixmap(QPixmap(os.path.join(base_directory, "Income&Expense.png")))
         self.label.setScaledContents(True)
         self.label_2 = QLabel(self.centralwidget)
         self.label_2.setObjectName(u"label_2")
         self.label_2.setGeometry(QRect(430, 210, 121, 121))
         self.label_2.setAutoFillBackground(True)
-        self.label_2.setPixmap(QPixmap(r"D:\projects\finance Tracker desktop app\Applications\Analyze&Recommend.png"))
+        self.label_2.setPixmap(QPixmap(os.path.join(base_directory, "Analyze&Recommend.png")))
         self.label_2.setScaledContents(True)
         self.label_3 = QLabel(self.centralwidget)
         self.label_3.setObjectName(u"label_3")
         self.label_3.setGeometry(QRect(400, 340, 171, 121))
-        self.label_3.setPixmap(QPixmap(r"D:\projects\finance Tracker desktop app\Applications\InvestmentPortfolio.png"))
+        self.label_3.setPixmap(QPixmap(os.path.join(base_directory, "InvestmentPortfolio.png")))
         self.label_3.setScaledContents(True)
         Dashboard.setCentralWidget(self.centralwidget)
         self.statusbar = QStatusBar(Dashboard)
