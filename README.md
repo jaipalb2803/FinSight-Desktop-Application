@@ -46,7 +46,7 @@ The application is built with Python and PySide6 for a sleek, modern interface, 
 - Then we clone the repository into the project location in the same level of the environment file
 
 ```bash
-  git clone https://github.com/hydracsnova13/FinSight-Desktop-Application.git
+  git clone https://github.com/jaipalb2803/FinSight-Desktop-Application
 ```
 - Then we signup into Google Search API with the link: https://www.searchapi.io/ and get the API key to activate the investment Portfolio API when running the application
 
