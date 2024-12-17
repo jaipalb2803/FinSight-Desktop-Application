@@ -96,5 +96,5 @@ The application is built with Python and PySide6 for a sleek, modern interface, 
 
 ## License
 
-[MIT](https://github.com/hydracsnova13/FinSight-Desktop-Application/blob/main/LICENSE)
+[MIT](https://github.com/jaipalb2803/FinSight-Desktop-Application/blob/main/LICENSE)
 
